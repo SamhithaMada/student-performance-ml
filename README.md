@@ -81,9 +81,8 @@ Linear Regression was selected as the final model due to:
 student_performance_ml/
 │
 ├── data/
-│   ├── raw/
-│   │   └── student_performance.csv
-│   └── processed/
+│   └── raw/
+│       └── student_performance.csv
 │
 ├── notebooks/
 │   └── student_performance.ipynb
