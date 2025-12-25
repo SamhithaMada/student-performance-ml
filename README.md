@@ -78,6 +78,8 @@ Linear Regression was selected as the final model due to:
 ---
 
 ## 📁 Project Structure
+
+```text
 student_performance_ml/
 │
 ├── data/
@@ -91,8 +93,11 @@ student_performance_ml/
 │   └── student_performance_linear_pipeline.pkl
 │
 └── README.md
+```
 
-Note: The `data/processed/` directory is reserved for future use. In this project, all preprocessing is handled dynamically using scikit-learn pipelines to avoid data leakage and ensure reproducibility.
+Note: The `data/processed/` directory is reserved for future use. In this project,
+all preprocessing is handled dynamically using scikit-learn pipelines to avoid
+data leakage and ensure reproducibility.
 
 ---
 
